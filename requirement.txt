@@ -174,7 +174,6 @@ python-gettext==4.1
 python-jose==3.3.0
 python-multipart==0.0.5
 pytz==2022.7.1
-pywin32
 PyYAML==6.0
 Record==3.6
 repoze.xmliter==0.6.1
